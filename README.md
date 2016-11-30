@@ -1,2 +1,2 @@
 # learn-es2015
-for personal use
+for myself use
